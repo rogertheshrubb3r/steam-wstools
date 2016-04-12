@@ -1,4 +1,5 @@
 # wstools
 
-Steam workshop tools
+Steam workshop tools.
+Beware: extremely messy PHP.
 

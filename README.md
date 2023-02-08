@@ -1,4 +1,4 @@
-# wstools
+# steam-wstools
 
 Steam workshop tools.
 
